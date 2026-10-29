@@ -1,0 +1,8 @@
+numpy
+pandas
+pyarrow
+matplotlib
+holidays
+torch
+jupyter
+python-docx
